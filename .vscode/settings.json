@@ -10,5 +10,8 @@
 	],
 	"workbench.editorAssociations": {
 		"*.db": "sqlite-viewer.view"
-	}
+	},
+	"github-actions.workflows.pinned.workflows": [
+		".github/workflows/deploy.yml"
+	]
 }
